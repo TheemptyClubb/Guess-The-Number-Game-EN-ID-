@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Tebak Angka</title>
+    <link rel="stylesheet" href="guessID.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Game Tebak Angka</h1>
+        <p>Aku lagi mikir angka antara 1 dan 100, coba tebak dong!</p>
+        
+        <div class="input-area">
+            <input type="number" id="guessInput" placeholder="Tebakan kamu?" />
+            <button id="submitGuess">Kirim Tebakan</button>
+        </div>
+        
+        <p id="feedback"></p>
+        <p>Percobaan: <span id="attemptsCount">0</span></p>
+        
+        <button id="restartButton" class="hidden">Main Lagi</button>
+    </div>
+
+    <script src="guessID.js"></script>
+</body>
+</html>
