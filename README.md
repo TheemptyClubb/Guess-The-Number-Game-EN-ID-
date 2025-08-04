@@ -1,3 +1,9 @@
+
+
+This is just a simple code, you can customize it in your own way.
+
+
+
 # ENGLISH
 <img width="755" height="760" alt="Image" src="https://github.com/user-attachments/assets/407be045-882f-407e-8085-192e5cf7c3b9" />
 # --------------------------------------------------------------------------------------------
